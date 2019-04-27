@@ -1,4 +1,4 @@
 git add -A
-git commit -m save
+git commit -m %1
 git pull
 git push
